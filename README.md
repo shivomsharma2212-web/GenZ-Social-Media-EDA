@@ -14,7 +14,7 @@ This analysis helps answer important questions such as:
 * Is there a relationship between age and social media usage?
 * What are the addiction level patterns among users?
 
----
+
 
 ## Dataset Used
 
@@ -31,7 +31,6 @@ The dataset includes features like:
 * Addiction Level
 * Mental Health Score
 
----
 
 ## Tools & Technologies Used
 
@@ -40,7 +39,7 @@ The dataset includes features like:
 * Matplotlib
 * Jupyter Notebook
 
----
+
 
 ## Project Workflow
 
@@ -90,7 +89,6 @@ The dataset includes features like:
 
 * Correlation matrix and heatmap for numeric features
 
----
 
 ## Key Insights
 
@@ -99,8 +97,6 @@ The dataset includes features like:
 * Higher daily usage may show a negative relationship with mental health
 * Addiction levels vary significantly across users
 * Younger users may show higher engagement on social platforms
-
----
 
 
 
